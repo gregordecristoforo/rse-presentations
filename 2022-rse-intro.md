@@ -157,5 +157,8 @@ class: gray-background
 # How can we help?
 
 <img src="img/magic.jpg" style="height: 200px;"/>
-
 .cite[citation needed]
+
+.quote["I am not a software engineer"]
+
+.quote["but I don't write code - is this for me?"]
