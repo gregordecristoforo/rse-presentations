@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
 
 .remark-slide-content h1 {
     font-size: 3em;
@@ -157,9 +158,9 @@ a {
 }
 
 .quote {
-    color: #ff0000;
-    font-style: italic;
-    font-size: 30px;
+    color: #856190;
+    font-family: 'Kalam', cursive;
+    font-size: 1.2em;
 }
 
 .cite {
