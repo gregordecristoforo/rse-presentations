@@ -140,7 +140,7 @@ class: gray-background
 ## Short term
 
 - Provide consulting
-- Code review sessions
+- .emph[Code review] sessions
 - Work on "smaller" projects and .emph[document use cases]
 - Attract more projects
 
@@ -149,7 +149,7 @@ class: gray-background
 
 - Be part of funding applications
 - Research groups have access to best in class RSE services
-- More staff who collaborate on projects
+- Hire more staff who collaborate on projects
 - "Proper" application procedure
 
 ---
