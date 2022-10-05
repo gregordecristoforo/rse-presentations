@@ -120,15 +120,42 @@ Lessons and recordings: https://coderefinery.org/lessons/
 
 ---
 
+class: gray-background
+
 # Use cases
+
+- Oceanography: speed-up of grid mesh generation from days to seconds by a code rewrite from Matlab to Python+Rust
+  using a more optimal algorithm
+
+- SMARTool: The Strategic Mastery of Russian Tool: https://smartool.github.io/smartool-rus-eng/
+
+- Searchable database of multiword grammatical constructions of Russian: https://constructicon.github.io/russian/
 
 ---
 
+class: gray-background
+
 # Our vision
 
-- Short term ...
-- Longer term ...
+## Short term
+
+- Provide consulting
+- Code review sessions
+- Work on "smaller" projects and .emph[document use cases]
+- Attract more projects
+
+
+## Longer term
+
+- Be part of funding applications
+- Research groups have access to best in class RSE services
+- More staff who collaborate on projects
+- "Proper" application procedure
 
 ---
 
 # How can we help?
+
+<img src="img/magic.jpg" style="height: 200px;"/>
+
+.cite[citation needed]
