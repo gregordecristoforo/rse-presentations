@@ -37,9 +37,15 @@ class: gray-background
 
 ---
 
-# Slide about FAIR
+class: gray-background
 
-- What a present and future researcher needs to navigate
+# FAIR principles and software
+
+Researchers need to navigate many tools and concepts.
+
+<img src="img/turing-way/8-fair-principles.jpg" style="height: 380px;"/>
+
+.cite[(c) [Scriberia](http://www.scriberia.co.uk) for [The Turing Way](https://the-turing-way.netlify.com), CC-BY]
 
 ---
 
