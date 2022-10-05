@@ -53,19 +53,11 @@ class: gray-background
 
 # What we offer (1/3)
 
-- .emph[Consulting and help] with programming and research software engineering
+- .emph[Code review]
+  - We look together at the code and give constructive feedback
+  - Mainly as a learning experience
 
-- Making code more .emph[reproducible and reusable]
-
-- Help with .emph[software licenses] and open sourcing
-
-- Help with .emph[Git, GitHub, and GitLab]
-
-- Help with .emph[moving your work/project/code/data to Git]
-
-- Help with organization of reusable and reproducible Jupyter .emph[notebooks and Binder]
-
-- Advice and help how to best .emph[document code]
+.quote["but the code is not ready"]
 
 ---
 
@@ -73,19 +65,11 @@ class: gray-background
 
 # What we offer (2/3)
 
-- Advice about whether to use YAML or CSV or JSON or TOML or something else
+- Making code more .emph[reproducible and reusable]
+  - Help with .emph[version control] (Git, GitHub, and GitLab)
+  - Help with organization of reusable and reproducible Jupyter .emph[notebooks and Binder]
 
-- .emph[Packaging and sharing] software
-
-- Help with .emph[pip, PyPI, and Conda]
-
-- Help .emph[publishing your code]
-
-- Improving .emph[scaling, CPU, and memory footprint] of research codes
-
-- Help with .emph[modularizing your code]
-
-- Consulting and help with .emph[web development] (static websites, JavaScript, HTML, CSS frameworks)
+- Advice and help how to best .emph[document code]
 
 ---
 
@@ -93,7 +77,18 @@ class: gray-background
 
 # What we offer (3/3)
 
-- Containerization (Singularity, Docker)
+- .emph[Packaging and sharing] software
+  - Help with .emph[pip, PyPI, and Conda]
+  - Help .emph[publishing your code]
+  - Help with .emph[software licenses] and open sourcing
+  - Containerization (Singularity, Docker)
+
+- Improving .emph[scaling, CPU, and memory footprint] of research codes
+
+- Help with .emph[modularizing your code]
+
+- Consulting and help with .emph[web development] (static websites, JavaScript, HTML, CSS frameworks)
+
 - .emph[Courses, training, hackathons]
 
 ---
