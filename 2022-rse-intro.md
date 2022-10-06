@@ -127,9 +127,13 @@ class: gray-background
 - Oceanography: speed-up of grid mesh generation from days to seconds by a code rewrite from Matlab to Python+Rust
   using a more optimal algorithm
 
-- SMARTool: The Strategic Mastery of Russian Tool: https://smartool.github.io/smartool-rus-eng/
+- [SMARTool: The Strategic Mastery of Russian Tool](https://smartool.github.io/smartool-rus-eng/),
+  Using GitHub Pages, JavaScript, and a CSV-based lightweight
+  "database" to simplify maintenance, reuse, and contributions.
 
-- Searchable database of multiword grammatical constructions of Russian: https://constructicon.github.io/russian/
+- [Constructicon: Searchable database of multiword grammatical constructions of Russian](https://constructicon.github.io/russian/).
+  Moved a project from a dedicated web server and custom database to GitHub Pages, JavaScript, and a YAML-based lightweight
+  "database" to simplify maintenance, reuse, and contributions.
 
 ---
 
