@@ -9,9 +9,9 @@ class: gray-background
 
 .fat[3:] Courses
 
-.fat[4:] Vision
+.fat[4:] Use cases
 
-.fat[5:] How can we help?
+.fat[5:] Vision
 ]
 
 .right-column50[
@@ -22,22 +22,44 @@ class: gray-background
 
 ---
 
-class: gray-background
+# About me
+
+.left-column30[
+<img src="img/avatar.jpeg" style="width: 80%;"/>
+]
+
+.right-column70[
+- Theoretical chemist turned research software engineer.
+
+- I write research software and teach programming to researchers and lead the
+  [CodeRefinery project](https://coderefinery.org).
+
+- I lead the **high-performance computing group** and the **research software
+  engineering group** at UiT.
+
+These days mostly programming in Python, Rust, and JavaScript but has spent
+many years with Fortran and C(++).
+]
+
+---
 
 # Research software engineers
 
 .. are people who combine .emph[professional software expertise] with an .emph[understanding of research] .cite[https://researchsoftware.org/]
 
-- Often people who grew up in research and liked computing and programming
-- ... or people who come from software development drawn towards meaningful and impactful work of academia
+- Often people **who grew up in research** and liked computing and programming
+
+- ... or people **who come from software development** drawn towards meaningful and impactful work of academia
+
 - [Society of Research Software Engineering](https://society-rse.org/)
+
 - Recent conference: [RSECon 2022](https://rsecon2022.society-rse.org/)
+
 - https://nordic-rse.org/
+
 - [Nordic-RSE unconference Oct 18-19](https://nordic-rse.org/events/2022-online-unconference/)
 
 ---
-
-class: gray-background
 
 # FAIR principles and software
 
@@ -49,51 +71,46 @@ Researchers need to navigate many tools and concepts.
 
 ---
 
-class: gray-background
+<img src="img/reproducible-research.jpg" style="height: 550px;"/>
 
-# What we offer (1/3)
+.cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
 
-- .emph[Code review]
-  - We look together at the code and give constructive feedback
-  - Mainly as a learning experience
+---
+
+# Code review
+
+<img src="img/review.jpg" style="height: 400px;"/>
 
 .quote["but the code is not ready"]
 
 ---
 
-class: gray-background
+# Team and project: [coderefinery.org](https://coderefinery.org/)
 
-# What we offer (2/3)
+- Started in 2016, now we are in phase 3 until 2025
+- **Partners**: NeIC (1 FTE), Aalto University, ENCCS, CSC, DeIC, Sigma2/NRIS, SNIC, T1C for interactive HPC (DK), USIT/UiO
 
-- Making code more .emph[reproducible and reusable]
-  - Help with .emph[version control] (Git, GitHub, and GitLab)
-  - Help with organization of reusable and reproducible Jupyter .emph[notebooks and Binder]
+.left-column50[
+- Over 2000 persons trained
+- Over 30 instructors/speakers
+- Over 100 exercise leads
+- **Pioneering teaching methods**
+- **Working in public**
+- Lesson material
+- Video recordings
+- Manuals
+- Training network
+- Brand
+- Impact
+- Community
+- Knowledge
+]
 
-- Advice and help how to best .emph[document code]
-
----
-
-class: gray-background
-
-# What we offer (3/3)
-
-- .emph[Packaging and sharing] software
-  - Help with .emph[pip, PyPI, and Conda]
-  - Help .emph[publishing your code]
-  - Help with .emph[software licenses] and open sourcing
-  - Containerization (Singularity, Docker)
-
-- Improving .emph[scaling, CPU, and memory footprint] of research codes
-
-- Help with .emph[modularizing your code]
-
-- Consulting and help with .emph[web development] (static websites, JavaScript, HTML, CSS frameworks)
-
-- .emph[Courses, training, hackathons]
+.right-column50[
+<img src="img/coderefinery.png" style="height: 250px;"/>
+]
 
 ---
-
-class: gray-background
 
 # Our course portfolio via [coderefinery.org](https://coderefinery.org)
 
@@ -120,12 +137,29 @@ Lessons and recordings: https://coderefinery.org/lessons/
 
 ---
 
-class: gray-background
+# Big problem: visibility and outreach
 
-# Use cases
+.quote[[ ] check this box if you would like to be informed about events in future organized by us. This is how we will store your contact information: ...]
 
-- Oceanography: speed-up of grid mesh generation from days to seconds by a code rewrite from Matlab to Python+Rust
-  using a more optimal algorithm
+Ideas:
+- roll-ups
+- info-screens
+- events
+- stands
+- office hours
+
+---
+
+# Use case 1
+
+Oceanography: speed-up of grid mesh generation from days to seconds by a code
+rewrite from Matlab to Python+Rust using a more optimal algorithm
+
+<img src="img/mesh.jpg" style="width: 100%;"/>
+
+---
+
+# Use case 2: web development
 
 - [SMARTool: The Strategic Mastery of Russian Tool](https://smartool.github.io/smartool-rus-eng/),
   Using GitHub Pages, JavaScript, and a CSV-based lightweight
@@ -137,7 +171,60 @@ class: gray-background
 
 ---
 
-class: gray-background
+# Typical: memory is the bottleneck
+
+```python
+# problematic if data.txt is 30 GB big
+result = 0.0
+with open("data.txt", "r") as f:
+    lines = f.readlines()
+    for line in lines:
+        result += analyze(line)
+
+
+# better
+result = 0.0
+with open("data.txt", "r") as f:
+    for line in f:
+        result += analyze(line)
+```
+
+---
+
+class: center, middle, inverse
+
+# A look into the future?
+
+---
+
+# Centralization of resources
+
+- .emph[Reduced focus on hardware]: cloud and pooling
+
+- From local computing centers towards national (e.g.
+  [Sigma2/NRIS](https://www.sigma2.no/)) and international compute resources
+  (e.g.
+  [EuroHPC](https://eurohpc-ju.europa.eu/)/[LUMI](https://lumi-supercomputer.eu/))
+
+- .emph[Distributed support staff]
+
+- Organizations will have to collaborate on training and .emph[stay close to the users]
+
+---
+
+# High-performance computing is changing
+
+- New user interfaces
+
+- New user communities
+
+- HPC in the browser
+
+- Training cluster in the cloud on demand
+
+- Instead of the Top 500 list more focus on top 100 in terms of .emph[usability or support]?
+
+---
 
 # Our vision
 
@@ -146,6 +233,7 @@ class: gray-background
 - Provide consulting
 - .emph[Code review] sessions
 - Work on "smaller" projects and .emph[document use cases]
+- Focus on UiT
 - Attract more projects
 
 
@@ -155,14 +243,17 @@ class: gray-background
 - Research groups have access to best in class RSE services
 - Hire more staff who collaborate on projects
 - "Proper" application procedure
+- Going beyond UiT
+- .emph[Career path opportunities]
 
 ---
 
-# How can we help?
+# How everything nicely ties together
 
-<img src="img/magic.jpg" style="height: 200px;"/>
-.cite[citation needed]
+## Training, RSE-work, High-performance computing
 
-.quote["I am not a software engineer"]
+- .emph[Staying current]: If we want to teach programming tools, we also have to write code
 
-.quote["but I don't write code - is this for me?"]
+- .emph[Complementary skills]: We can solve problems with hardware or with software
+
+- .emph[Progression]: Training events are a great place to advertize services
