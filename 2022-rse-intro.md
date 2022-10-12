@@ -34,11 +34,8 @@ class: gray-background
 - I write research software and teach programming to researchers and lead the
   [CodeRefinery project](https://coderefinery.org).
 
-- I lead the **high-performance computing group** and the **research software
-  engineering group** at UiT.
-
-These days mostly programming in Python, Rust, and JavaScript but has spent
-many years with Fortran and C(++).
+- I lead the high-performance computing group and the research software
+  engineering group at UiT.
 ]
 
 ---
@@ -74,14 +71,6 @@ Researchers need to navigate many tools and concepts.
 <img src="img/reproducible-research.jpg" style="height: 550px;"/>
 
 .cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
-
----
-
-# Code review
-
-<img src="img/review.jpg" style="height: 400px;"/>
-
-.quote["but the code is not ready"]
 
 ---
 
@@ -137,6 +126,14 @@ Lessons and recordings: https://coderefinery.org/lessons/
 
 ---
 
+# Code review
+
+<img src="img/review.jpg" style="height: 400px;"/>
+
+.quote["but the code is not ready"]
+
+---
+
 # Big problem: visibility and outreach
 
 .quote[[ ] check this box if you would like to be informed about events in future organized by us. This is how we will store your contact information: ...]
@@ -150,7 +147,7 @@ Ideas:
 
 ---
 
-# Use case 1
+# Use case 1: optimization
 
 Oceanography: speed-up of grid mesh generation from days to seconds by a code
 rewrite from Matlab to Python+Rust using a more optimal algorithm
@@ -171,7 +168,7 @@ rewrite from Matlab to Python+Rust using a more optimal algorithm
 
 ---
 
-# Typical: memory is the bottleneck
+# Use case 3: rewrite instead of buying a 30 GB hard disk
 
 ```python
 # problematic if data.txt is 30 GB big
@@ -220,7 +217,7 @@ class: center, middle, inverse
 
 - HPC in the browser
 
-- Training cluster in the cloud on demand
+- Training cluster in the cloud on demand (see e.g. [Magic Castle](https://github.com/ComputeCanada/magic_castle))
 
 - Instead of the Top 500 list more focus on top 100 in terms of .emph[usability or support]?
 
@@ -230,7 +227,7 @@ class: center, middle, inverse
 
 ## Short term
 
-- Provide consulting
+- Provide consulting: good advice is **not** expensive
 - .emph[Code review] sessions
 - Work on "smaller" projects and .emph[document use cases]
 - Focus on UiT
@@ -257,3 +254,6 @@ class: center, middle, inverse
 - .emph[Complementary skills]: We can solve problems with hardware or with software
 
 - .emph[Progression]: Training events are a great place to advertize services
+
+
+## Contact: https://research-software.uit.no/contact/
