@@ -211,9 +211,9 @@ class: center, middle, inverse
 
 # High-performance computing is changing
 
-- New user interfaces
-
 - New user communities
+
+- New user interfaces
 
 - HPC in the browser
 
