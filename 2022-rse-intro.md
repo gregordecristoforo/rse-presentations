@@ -22,24 +22,6 @@ class: gray-background
 
 ---
 
-# About me
-
-.left-column30[
-<img src="img/avatar.jpeg" style="width: 80%;"/>
-]
-
-.right-column70[
-- Theoretical chemist turned research software engineer.
-
-- I write research software and teach programming to researchers and lead the
-  [CodeRefinery project](https://coderefinery.org).
-
-- I lead the high-performance computing group and the research software
-  engineering group at UiT.
-]
-
----
-
 # Research software engineers
 
 .. are people who combine .emph[professional software expertise] with an .emph[understanding of research] .cite[https://researchsoftware.org/]
