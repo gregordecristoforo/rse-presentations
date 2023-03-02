@@ -73,21 +73,20 @@ class: center, middle, inverse
 ---
 
 # Help with improving your scripts/code
-	- Code review: we look together at your code/script and give constructive feedback and advice
+	- Code review
 	- Making code more reproducible and reusable
 	- Advice and help how to best document code
-	- Advice about whether to use YAML or CSV or JSON or TOML or something else
-	- Consulting and help with web development (static websites, JavaScript, HTML, CSS frameworks)
+	- Consulting and help with web development
 
-<img src="img/review.jpg" style="height: 400px;"/>
+<img src="img/review.jpg" style="width: 100%;"/>
 
 ---
 
 # Help with organising your code
-	- Help with modularizing your code
-	- Help with moving your work/project/code/data to Git
-	- Help with Git, GitHub, and GitLab
-	- Help with organization of reusable and reproducible Jupyter notebooks and Binder
+	- Modularizing your code
+	- Moving your work/project/code/data to Git
+	- Git, GitHub, and GitLab
+	- Organization of reusable and reproducible Python/R notebooks
 
 ---
 
@@ -101,9 +100,9 @@ class: center, middle, inverse
 ---
 
 # Help with running your code faster
-	- Improving scaling, CPU, and memory footprint of research codes
+	- Improving scaling, CPU, and memory optimization
 	- Porting to GPU
-	- Moving from local computer to cloud or high-performance computing 
+	- Moving from local computer to cloud or HPC
 
 ---
 
