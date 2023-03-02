@@ -73,6 +73,7 @@ class: center, middle, inverse
 ---
 
 # Help with improving your scripts/code
+
 	- Code review
 	- Making code more reproducible and reusable
 	- Advice and help how to best document code
@@ -83,6 +84,7 @@ class: center, middle, inverse
 ---
 
 # Help with organising your code
+
 	- Modularizing your code
 	- Moving your work/project/code/data to Git
 	- Git, GitHub, and GitLab
@@ -91,6 +93,7 @@ class: center, middle, inverse
 ---
 
 # Help with sharing your code
+
 	- Help publishing your code
 	- Help with software licenses and open sourcing
 	- Packaging and sharing software
@@ -100,6 +103,7 @@ class: center, middle, inverse
 ---
 
 # Help with running your code faster
+
 	- Improving scaling, CPU, and memory optimization
 	- Porting to GPU
 	- Moving from local computer to cloud or HPC
