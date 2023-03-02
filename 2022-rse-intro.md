@@ -56,30 +56,57 @@ Researchers need to navigate many tools and concepts.
 
 ---
 
-# Team and project: [coderefinery.org](https://coderefinery.org/)
+# Team
 
-- Started in 2016, now we are in phase 3 until 2025
-- **Partners**: NeIC (1 FTE), Aalto University, ENCCS, CSC, DeIC, Sigma2/NRIS, SNIC, T1C for interactive HPC (DK), USIT/UiO
+- Former researcher (finished and in progress PhD
+- Interested in IT
+- From different fields
+- Employed by IT department
+- Currently majority of time for national infrastructure
 
+---
+
+class: center, middle, inverse
+
+# What we offer?
+
+---
+
+# Help with improving your scripts/code
 .left-column50[
-- Over 2000 persons trained
-- Over 30 instructors/speakers
-- Over 100 exercise leads
-- **Pioneering teaching methods**
-- **Working in public**
-- Lesson material
-- Video recordings
-- Manuals
-- Training network
-- Brand
-- Impact
-- Community
-- Knowledge
+	- Code review: we look together at your code/script and give constructive feedback and advice
+	- Making code more reproducible and reusable
+	- Advice and help how to best document code
+	- Advice about whether to use YAML or CSV or JSON or TOML or something else
+	- Consulting and help with web development (static websites, JavaScript, HTML, CSS frameworks)
+]
+.left-column50[
+<img src="img/review.jpg" style="height: 400px;"/>
 ]
 
-.right-column50[
-<img src="img/coderefinery.png" style="height: 250px;"/>
-]
+---
+
+# Help with organising your code
+	- Help with modularizing your code
+	- Help with moving your work/project/code/data to Git
+	- Help with Git, GitHub, and GitLab
+	- Help with organization of reusable and reproducible Jupyter notebooks and Binder
+
+---
+
+# Help with sharing your code
+	- Help publishing your code
+	- Help with software licenses and open sourcing
+	- Packaging and sharing software
+	- Containerization (Singularity, Docker)
+	- Help with pip, PyPI, and Conda
+
+---
+
+# Help with running your code faster
+	- Improving scaling, CPU, and memory footprint of research codes
+	- Porting to GPU
+	- Moving from local computer to cloud or high-performance computing 
 
 ---
 
@@ -97,36 +124,14 @@ Researchers need to navigate many tools and concepts.
 - How to share and publish code
 - **...**
 
-Lessons and recordings: https://coderefinery.org/lessons/
+Lessons and recordings: https://coderefinery.or/lessons/
 ]
 
-.right-column50[
+.right-columnar[
 <img src="img/complex-machine.png" style="height: 400px;"/>
 
 .cite[citation needed]
 ]
-
----
-
-# Code review
-
-<img src="img/review.jpg" style="height: 400px;"/>
-
-.quote["but the code is not ready"]
-
----
-
-# Big problem: visibility and outreach
-
-.quote[[ ] check this box if you would like to be informed about events in future organized by us. This is how we will store your contact information: ...]
-
-Ideas:
-- roll-ups
-- info-screens
-- events
-- stands
-- office hours
-
 ---
 
 # Use case 1: optimization
@@ -176,6 +181,19 @@ class: center, middle, inverse
 
 ---
 
+# Big problem: visibility and outreach
+
+.quote[[ ] check this box if you would like to be informed about events in future organized by us. This is how we will store your contact information: ...]
+
+Ideas:
+- roll-ups
+- info-screens
+- events
+- stands
+- office hours
+
+---
+
 # Centralization of resources
 
 - .emph[Reduced focus on hardware]: cloud and pooling
@@ -188,20 +206,6 @@ class: center, middle, inverse
 - .emph[Distributed support staff]
 
 - Organizations will have to collaborate on training and .emph[stay close to the users]
-
----
-
-# High-performance computing is changing
-
-- New user communities
-
-- New user interfaces
-
-- HPC in the browser
-
-- Training cluster in the cloud on demand (see e.g. [Magic Castle](https://github.com/ComputeCanada/magic_castle))
-
-- Instead of the Top 500 list more focus on top 100 in terms of .emph[usability or support]?
 
 ---
 
