@@ -73,17 +73,13 @@ class: center, middle, inverse
 ---
 
 # Help with improving your scripts/code
-.left-column50[
 	- Code review: we look together at your code/script and give constructive feedback and advice
 	- Making code more reproducible and reusable
 	- Advice and help how to best document code
 	- Advice about whether to use YAML or CSV or JSON or TOML or something else
 	- Consulting and help with web development (static websites, JavaScript, HTML, CSS frameworks)
-]
 
-.right-column50[
 <img src="img/review.jpg" style="height: 400px;"/>
-]
 
 ---
 
