@@ -22,6 +22,22 @@ class: gray-background
 
 ---
 
+# FAIR principles and software
+
+Researchers need to navigate many tools and concepts.
+
+<img src="img/turing-way/8-fair-principles.jpg" style="height: 380px;"/>
+
+.cite[(c) [Scriberia](http://www.scriberia.co.uk) for [The Turing Way](https://the-turing-way.netlify.com), CC-BY]
+
+---
+
+<img src="img/reproducible-research.jpg" style="height: 550px;"/>
+
+.cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
+
+---
+
 # Research software engineers
 
 .. are people who combine .emph[professional software expertise] with an .emph[understanding of research] .cite[https://researchsoftware.org/]
@@ -37,22 +53,6 @@ class: gray-background
 - https://nordic-rse.org/
 
 - [Nordic-RSE unconference Oct 18-19](https://nordic-rse.org/events/2022-online-unconference/)
-
----
-
-# FAIR principles and software
-
-Researchers need to navigate many tools and concepts.
-
-<img src="img/turing-way/8-fair-principles.jpg" style="height: 380px;"/>
-
-.cite[(c) [Scriberia](http://www.scriberia.co.uk) for [The Turing Way](https://the-turing-way.netlify.com), CC-BY]
-
----
-
-<img src="img/reproducible-research.jpg" style="height: 550px;"/>
-
-.cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
 
 ---
 
