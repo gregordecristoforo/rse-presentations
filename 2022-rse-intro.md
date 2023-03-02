@@ -74,10 +74,10 @@ class: center, middle, inverse
 
 # Help with improving your scripts/code
 
-	- Code review
-	- Making code more reproducible and reusable
-	- Advice and help how to best document code
-	- Consulting and help with web development
+- Code review
+- Making code more reproducible and reusable
+- Advice and help how to best document code
+- Consulting and help with web development
 
 <img src="img/review.jpg" style="width: 100%;"/>
 
@@ -85,28 +85,28 @@ class: center, middle, inverse
 
 # Help with organising your code
 
-	- Modularizing your code
-	- Moving your work/project/code/data to Git
-	- Git, GitHub, and GitLab
-	- Organization of reusable and reproducible Python/R notebooks
+- Modularizing your code
+- Moving your work/project/code/data to Git
+- Git, GitHub, and GitLab
+- Organization of reusable and reproducible Python/R notebooks
 
 ---
 
 # Help with sharing your code
 
-	- Help publishing your code
-	- Help with software licenses and open sourcing
-	- Packaging and sharing software
-	- Containerization (Singularity, Docker)
-	- Help with pip, PyPI, and Conda
+- Help publishing your code
+- Help with software licenses and open sourcing
+- Packaging and sharing software
+- Containerization (Singularity, Docker)
+- Help with pip, PyPI, and Conda
 
 ---
 
 # Help with running your code faster
 
-	- Improving scaling, CPU, and memory optimization
-	- Porting to GPU
-	- Moving from local computer to cloud or HPC
+- Improving scaling, CPU, and memory optimization
+- Porting to GPU
+- Moving from local computer to cloud or HPC
 
 ---
 
