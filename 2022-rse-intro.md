@@ -80,7 +80,8 @@ class: center, middle, inverse
 	- Advice about whether to use YAML or CSV or JSON or TOML or something else
 	- Consulting and help with web development (static websites, JavaScript, HTML, CSS frameworks)
 ]
-.left-column50[
+
+.right-column50[
 <img src="img/review.jpg" style="height: 400px;"/>
 ]
 
