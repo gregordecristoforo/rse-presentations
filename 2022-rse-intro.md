@@ -22,6 +22,22 @@ class: gray-background
 
 ---
 
+# FAIR principles and software
+
+Researchers need to navigate many tools and concepts.
+
+<img src="img/turing-way/8-fair-principles.jpg" style="height: 380px;"/>
+
+.cite[(c) [Scriberia](http://www.scriberia.co.uk) for [The Turing Way](https://the-turing-way.netlify.com), CC-BY]
+
+---
+
+<img src="img/reproducible-research.jpg" style="height: 550px;"/>
+
+.cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
+
+---
+
 # Research software engineers
 
 .. are people who combine .emph[professional software expertise] with an .emph[understanding of research] .cite[https://researchsoftware.org/]
@@ -40,46 +56,57 @@ class: gray-background
 
 ---
 
-# FAIR principles and software
+# Team
 
-Researchers need to navigate many tools and concepts.
-
-<img src="img/turing-way/8-fair-principles.jpg" style="height: 380px;"/>
-
-.cite[(c) [Scriberia](http://www.scriberia.co.uk) for [The Turing Way](https://the-turing-way.netlify.com), CC-BY]
-
----
-
-<img src="img/reproducible-research.jpg" style="height: 550px;"/>
-
-.cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
+- Former researcher (finished and in progress PhD
+- Interested in IT
+- From different fields
+- Employed by IT department
+- Currently majority of time for national infrastructure
 
 ---
 
-# Team and project: [coderefinery.org](https://coderefinery.org/)
+class: center, middle, inverse
 
-- Started in 2016, now we are in phase 3 until 2025
-- **Partners**: NeIC (1 FTE), Aalto University, ENCCS, CSC, DeIC, Sigma2/NRIS, SNIC, T1C for interactive HPC (DK), USIT/UiO
+# What we offer?
 
-.left-column50[
-- Over 2000 persons trained
-- Over 30 instructors/speakers
-- Over 100 exercise leads
-- **Pioneering teaching methods**
-- **Working in public**
-- Lesson material
-- Video recordings
-- Manuals
-- Training network
-- Brand
-- Impact
-- Community
-- Knowledge
-]
+---
 
-.right-column50[
-<img src="img/coderefinery.png" style="height: 250px;"/>
-]
+# Help with improving your scripts/code
+
+- Code review
+- Making code more reproducible and reusable
+- Advice and help how to best document code
+- Consulting and help with web development
+
+<img src="img/review.jpg" style="width: 100%;"/>
+
+---
+
+# Help with organising your code
+
+- Modularizing your code
+- Moving your work/project/code/data to Git
+- Git, GitHub, and GitLab
+- Organization of reusable and reproducible Python/R notebooks
+
+---
+
+# Help with sharing your code
+
+- Help publishing your code
+- Help with software licenses and open sourcing
+- Packaging and sharing software
+- Containerization (Singularity, Docker)
+- Help with pip, PyPI, and Conda
+
+---
+
+# Help with running your code faster
+
+- Improving scaling, CPU, and memory optimization
+- Porting to GPU
+- Moving from local computer to cloud or HPC
 
 ---
 
@@ -97,36 +124,14 @@ Researchers need to navigate many tools and concepts.
 - How to share and publish code
 - **...**
 
-Lessons and recordings: https://coderefinery.org/lessons/
+Lessons and recordings: https://coderefinery.or/lessons/
 ]
 
-.right-column50[
+.right-columnar[
 <img src="img/complex-machine.png" style="height: 400px;"/>
 
 .cite[citation needed]
 ]
-
----
-
-# Code review
-
-<img src="img/review.jpg" style="height: 400px;"/>
-
-.quote["but the code is not ready"]
-
----
-
-# Big problem: visibility and outreach
-
-.quote[[ ] check this box if you would like to be informed about events in future organized by us. This is how we will store your contact information: ...]
-
-Ideas:
-- roll-ups
-- info-screens
-- events
-- stands
-- office hours
-
 ---
 
 # Use case 1: optimization
@@ -176,6 +181,19 @@ class: center, middle, inverse
 
 ---
 
+# Big problem: visibility and outreach
+
+.quote[[ ] check this box if you would like to be informed about events in future organized by us. This is how we will store your contact information: ...]
+
+Ideas:
+- roll-ups
+- info-screens
+- events
+- stands
+- office hours
+
+---
+
 # Centralization of resources
 
 - .emph[Reduced focus on hardware]: cloud and pooling
@@ -188,20 +206,6 @@ class: center, middle, inverse
 - .emph[Distributed support staff]
 
 - Organizations will have to collaborate on training and .emph[stay close to the users]
-
----
-
-# High-performance computing is changing
-
-- New user communities
-
-- New user interfaces
-
-- HPC in the browser
-
-- Training cluster in the cloud on demand (see e.g. [Magic Castle](https://github.com/ComputeCanada/magic_castle))
-
-- Instead of the Top 500 list more focus on top 100 in terms of .emph[usability or support]?
 
 ---
 
