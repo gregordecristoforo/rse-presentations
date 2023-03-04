@@ -17,7 +17,9 @@ class: gray-background
 .right-column50[
 ## [research-software.uit.no](https://research-software.uit.no/)
 
-<img src="img/logo.png" style="height: 250px;"/>
+<img src="img/logo.png"
+     alt="RSE logo"
+     style="height: 250px;"/>
 ]
 
 ---
@@ -26,13 +28,18 @@ class: gray-background
 
 Researchers need to navigate many tools and concepts.
 
-<img src="img/turing-way/8-fair-principles.jpg" style="height: 380px;"/>
+<img src="img/turing-way/8-fair-principles.jpg"
+     alt="FAIR principles: findable, accessible, interoperable, reusable"
+     style="height: 380px;"/>
 
 .cite[(c) [Scriberia](http://www.scriberia.co.uk) for [The Turing Way](https://the-turing-way.netlify.com), CC-BY]
 
 ---
 
-<img src="img/reproducible-research.jpg" style="height: 550px;"/>
+<img src="img/reproducible-research.jpg"
+     alt="6 helpful steps for reproducible research: file organization, naming, documentation, version control, stabilizing co
+mputing environment, publishing cresearch outputs"
+     style="height: 550px;"/>
 
 .cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
 
@@ -56,7 +63,7 @@ Researchers need to navigate many tools and concepts.
 
 ---
 
-# Our team
+# Our [team](https://research-software.uit.no/about/)
 
 - We grew up in research (chemistry and biology)
 
@@ -70,45 +77,47 @@ Researchers need to navigate many tools and concepts.
 
 class: center, middle, inverse
 
-# What we offer?
+# What we offer
 
 ---
 
 # Help with improving your scripts/code
 
-- Code review
-- Making code more reproducible and reusable
-- Advice and help how to best document code
-- Consulting and help with web development
+- .emph[Code review](we discuss code in a constructive way)
+- Making code .emph[more reusable]
+- Good practices for documentation
 
-<img src="img/review.jpg" style="width: 100%;"/>
+<img src="img/review.jpg"
+     alt="Image showing a 'diff' (before and after) used during code review"
+     style="width: 100%;"/>
 
 ---
 
 # Help with organising your code
 
-- Modularizing your code
-- Moving your work/project/code/data to Git
 - Git, GitHub, and GitLab
-- Organization of reusable and reproducible Python/R notebooks
+- Moving your work/project/code/data to Git
+- Modularizing your code
+- Organization of reusable Python/R notebooks
 
 ---
 
 # Help with sharing your code
 
-- Help publishing your code
 - Help with software licenses and open sourcing
+- Publishing code
 - Packaging and sharing software
 - Containerization (Singularity, Docker)
 - Help with pip, PyPI, and Conda
 
 ---
 
-# Help with running your code faster
+# Getting results sooner
 
 - Improving scaling, CPU, and memory optimization
 - Porting to GPU
 - Moving from local computer to cloud or HPC
+- Helping with running independent steps in parallel
 
 ---
 
@@ -129,11 +138,10 @@ class: center, middle, inverse
 Lessons and recordings: https://coderefinery.or/lessons/
 ]
 
-.right-columnar[
-<img src="img/complex-machine.png" style="height: 400px;"/>
-
-.cite[citation needed]
+.right-column50[
+<img src="img/coderefinery.png" style="height: 200px;"/>
 ]
+
 ---
 
 # Use case 1: optimization
@@ -159,16 +167,20 @@ rewrite from Matlab to Python+Rust using a more optimal algorithm
 
 # Use case 3: rewrite instead of buying a 30 GB hard disk
 
+### Problematic if data is 30 GB big
+
 ```python
-# problematic if data.txt is 30 GB big
 result = 0.0
 with open("data.txt", "r") as f:
     lines = f.readlines()
     for line in lines:
         result += analyze(line)
+```
 
 
-# better
+### Better
+
+```python
 result = 0.0
 with open("data.txt", "r") as f:
     for line in f:
@@ -179,35 +191,7 @@ with open("data.txt", "r") as f:
 
 class: center, middle, inverse
 
-# A look into the future?
-
----
-
-# Big problem: visibility and outreach
-
-.quote[[ ] check this box if you would like to be informed about events in future organized by us. This is how we will store your contact information: ...]
-
-Ideas:
-- roll-ups
-- info-screens
-- events
-- stands
-- office hours
-
----
-
-# Centralization of resources
-
-- .emph[Reduced focus on hardware]: cloud and pooling
-
-- From local computing centers towards national (e.g.
-  [Sigma2/NRIS](https://www.sigma2.no/)) and international compute resources
-  (e.g.
-  [EuroHPC](https://eurohpc-ju.europa.eu/)/[LUMI](https://lumi-supercomputer.eu/))
-
-- .emph[Distributed support staff]
-
-- Organizations will have to collaborate on training and .emph[stay close to the users]
+# Our vision
 
 ---
 
