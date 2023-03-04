@@ -95,29 +95,65 @@ class: center, middle, inverse
 
 # Help with organising your code
 
+.left-column50[
 - Git, GitHub, and GitLab
+
 - Moving your work/project/code/data to Git
+
 - Modularizing your code
+
 - Organization of reusable Python/R notebooks
+]
+
+.right-column50[
+<img src="img/github.png"
+     alt="Screenshot of https://github.com/pandas-dev/pandas/commits/main"
+     style="width: 400px;"/>
+]
 
 ---
 
 # Help with sharing your code
 
+.left-column50[
 - Help with software licenses and open sourcing
+
 - Publishing code
+
 - Packaging and sharing software
+
 - Containerization (Singularity, Docker)
-- Help with pip, PyPI, and Conda
+
+- PyPI and Conda
+]
+
+.right-column50[
+<img src="img/zenodo.png"
+     alt="Screenshot of zenodo.org"
+     style="width: 400px;"/>
+]
 
 ---
 
 # Getting results sooner
 
+.left-column50[
 - Improving scaling, CPU, and memory optimization
+
 - Porting to GPU
+
 - Moving from local computer to cloud or HPC
+
 - Helping with running independent steps in parallel
+]
+
+.right-column50[
+<img src="img/busy-kitchen.png"
+     alt="image of a busy restaurant kitchen"
+     style="height: 300px;"/>
+
+.cite[Midjourney, CC-BY-NC 4.0]
+]
 
 ---
 
