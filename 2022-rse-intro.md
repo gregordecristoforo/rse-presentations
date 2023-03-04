@@ -56,13 +56,15 @@ Researchers need to navigate many tools and concepts.
 
 ---
 
-# Team
+# Our team
 
-- Former researcher (finished and in progress PhD
-- Interested in IT
-- From different fields
+- We grew up in research (chemistry and biology)
+
+- Interested in software development and computing
+
 - Employed by IT department
-- Currently majority of time for national infrastructure
+
+- We are part of [Norwegian Research Infrastructure Services](https://documentation.sigma2.no/)
 
 ---
 
