@@ -46,13 +46,13 @@ Researchers need to navigate many tools and concepts.
 
 - ... or people **who come from software development** drawn towards meaningful and impactful work of academia
 
+
+## Resources
+
 - [Society of Research Software Engineering](https://society-rse.org/)
-
 - Recent conference: [RSECon 2022](https://rsecon2022.society-rse.org/)
-
 - https://nordic-rse.org/
-
-- [Nordic-RSE unconference Oct 18-19](https://nordic-rse.org/events/2022-online-unconference/)
+- [Nordic-RSE unconference 2022](https://nordic-rse.org/events/2022-online-unconference/)
 
 ---
 
