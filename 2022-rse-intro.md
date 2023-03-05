@@ -253,15 +253,8 @@ class: center, middle, inverse
 
 ---
 
-# How everything nicely ties together
+class: center, middle, inverse
 
-## Training, RSE-work, High-performance computing
-
-- .emph[Staying current]: If we want to teach programming tools, we also have to write code
-
-- .emph[Complementary skills]: We can solve problems with hardware or with software
-
-- .emph[Progression]: Training events are a great place to advertize services
-
+# Office hours: Wednesday 14-15
 
 ## Contact: https://research-software.uit.no/contact/
