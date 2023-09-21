@@ -57,9 +57,9 @@ mputing environment, publishing cresearch outputs"
 ## Resources
 
 - [Society of Research Software Engineering](https://society-rse.org/)
-- Recent conference: [RSECon 2022](https://rsecon2022.society-rse.org/)
+- Recent conference: [RSECon 2023](https://rsecon23.society-rse.org/)
 - https://nordic-rse.org/
-- [Nordic-RSE unconference 2022](https://nordic-rse.org/events/2022-online-unconference/)
+- [Nordic-RSE unconference 2023](https://nordic-rse.org/events/2023-online-unconference/)
 
 ---
 
