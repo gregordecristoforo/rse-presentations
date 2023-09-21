@@ -1,6 +1,6 @@
 class: gray-background
 
-# Research software engineering (RSE) in 10-15 minutes
+# Research software engineering (RSE) at UiT in 10-15 minutes
 
 .left-column50[
 .fat[1:] The RSE role
@@ -275,3 +275,5 @@ class: center, middle, inverse
 # Office hours: Wednesday 13:00 - 15:00
 
 ## https://research-software.uit.no/contact/
+
+## These slides: https://doi.org/10.5281/zenodo.8368302
