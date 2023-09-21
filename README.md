@@ -3,4 +3,4 @@
 Slides can be served using [Cicero](http://cicero.xyz), which can
 be [run locally](https://cicero.readthedocs.io/en/latest/local.html).
 
-- https://cicero.xyz/v3/remark/0.14.0/github.com/uit-no/rse-presentations/main/2022-rse-intro.md/
+- https://cicero.xyz/v3/remark/0.14.0/github.com/uit-no/rse-presentations/main/rse-intro.md/
