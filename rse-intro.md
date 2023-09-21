@@ -255,6 +255,6 @@ class: center, middle, inverse
 
 class: center, middle, inverse
 
-# Office hours: Wednesday 14-15
+# Office hours: Wednesday 13-15
 
-## Contact: https://research-software.uit.no/contact/
+## https://research-software.uit.no/contact/
