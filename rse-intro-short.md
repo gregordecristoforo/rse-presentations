@@ -57,7 +57,7 @@ class: center, middle, inverse
 
 # Help with improving your scripts/code
 
-- .emph[Code review](we discuss code in a constructive way)
+- .emph[Code review] (we discuss code in a constructive way)
 - Making code .emph[more reusable]
 - Good practices for documentation
 
