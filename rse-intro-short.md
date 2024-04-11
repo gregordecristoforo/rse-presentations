@@ -9,25 +9,19 @@ class: gray-background
      style="height: 250px;"/>
 
 ---
+# Software-related challenges in research
 
-# FAIR principles and software
-
-Researchers need to navigate many tools and concepts.
-
-<img src="img/turing-way/8-fair-principles.jpg"
+<img src="img/best-practices-paper.png"
      alt="FAIR principles: findable, accessible, interoperable, reusable"
      style="height: 380px;"/>
 
-.cite[(c) [Scriberia](http://www.scriberia.co.uk) for [The Turing Way](https://the-turing-way.netlify.com), CC-BY]
-
 ---
 
-<img src="img/reproducible-research.jpg"
-     alt="6 helpful steps for reproducible research: file organization, naming, documentation, version control, stabilizing co
-mputing environment, publishing cresearch outputs"
-     style="height: 550px;"/>
+# Software-related challenges in research
 
-.cite[Heidi Seibold, CC-BY 4.0, https://twitter.com/HeidiBaya/status/1579385587865649153]
+<img src="img/paper-quote.png"
+     alt="FAIR principles: findable, accessible, interoperable, reusable"
+     style="height: 600px;"/>
 
 ---
 
@@ -46,12 +40,6 @@ mputing environment, publishing cresearch outputs"
 - Recent conference: [RSECon 2023](https://rsecon23.society-rse.org/)
 - https://nordic-rse.org/
 - [Nordic-RSE unconference 2023](https://nordic-rse.org/events/2023-online-unconference/)
-
----
-
-class: center, middle, inverse
-
-# What we offer
 
 ---
 
@@ -131,59 +119,53 @@ class: center, middle, inverse
 
 ---
 
-.left-column50[
-- Version control
-
-- Collaboration using Git
-
-- Testing
-
-- Documentation
-
-- Notebooks
-
-- Modular code development
-
-- Reproducible research
-
-- Software licensing
-
-- How to share and publish code
-]
-
-.right-column50[
-<img src="img/coderefinery.png" style="width: 250px;"/>
-
-**Typical format**: 6 half-days, [twice per
-year](https://coderefinery.org/workshops/upcoming/), online, free,
-live-streamed, recorded, archived asynchronous Q&A in collaborative document
-
-**Lessons and recordings:** https://coderefinery.org/lessons/
-]
-
----
-
 # Our vision
 
-.left-column50[
 ## Short term
 
 - Provide consulting: good advice is **not** expensive
 - .emph[Code review] sessions
-- Work on "smaller" projects
-- Document and market [success stories](https://research-software.uit.no/projects/)
+- Work on "smaller" projects and .emph[document use cases]
 - Focus on UiT
-- Attract more projects
-- .emph[Obtain base funding]
+- Attract more projects 
+
+
+## Longer term
+
+- Be part of funding applications (successful applications with Hylleraas Centre and Framsenteret)
+- Research groups have access to best in class RSE services
+- Hire more staff who collaborate on projects
+- "Proper" application procedure 
+- Going beyond UiT
+- .emph[Career path opportunities]
+
+---
+
+# RSE is an established field
+
+.left-column50[
+<img src="img/rse-york.png"
+     alt="FAIR principles: findable, accessible, interoperable, reusable"
+     style="height: 350px;"/>
 ]
 
 .right-column50[
-## Longer term
-
-- Be part of .emph[funding applications]
-- Research groups have access to best in class RSE services
-- Hire more staff who collaborate on projects
-- "Proper" application procedure
-- Going beyond UiT
-- .emph[Career path opportunities]
+<img src="img/rse-princeton.png"
+     alt="FAIR principles: findable, accessible, interoperable, reusable"
+     style="height: 350px;"/>
 ]
+---
+
+<img src="img/rse-website.png"
+     alt="FAIR principles: findable, accessible, interoperable, reusable"
+     style="width: 100%;"/>
+
+---
+class: center, middle, inverse
+
+# Office hours: Wednesday 13:00 - 15:00
+
+## https://research-software.uit.no/contact/
+
+## Email: rse@uit.no 
+
