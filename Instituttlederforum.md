@@ -21,7 +21,7 @@ class: gray-background
 
 <img src="img/paper-quote.png"
      alt="FAIR principles: findable, accessible, interoperable, reusable"
-     style="height: 380px;"/>
+     style="height: 600px;"/>
 
 ---
 
