@@ -1,0 +1,6 @@
+altair >4, <6
+jupyterlab
+jupyterlab-code-formatter
+black
+isort
+vl-convert-python
