@@ -9,19 +9,15 @@ class: gray-background
      style="height: 250px;"/>
 
 ---
-# Software-related challenges in research
+# Software development is part of research
 
-<img src="img/best-practices-paper.png"
-     alt="FAIR principles: findable, accessible, interoperable, reusable"
-     style="height: 380px;"/>
+- Scientists typically spend 30% of their time developing software
 
----
+- 90% or more are primarily self-taught
 
-# Software-related challenges in research
+- Many are unaware of tools and practices that would allow them to write more reliable and maintainable code with less effort
 
-<img src="img/paper-quote.png"
-     alt="FAIR principles: findable, accessible, interoperable, reusable"
-     style="height: 600px;"/>
+.cite[Wilson, Greg, et al. "Best practices for scientific computing." PLoS biology 12.1 (2014): e1001745.]
 
 ---
 
@@ -87,6 +83,9 @@ class: gray-background
 - Containerization (Singularity, Docker)
 
 - PyPI and Conda
+
+- Journal of Open Source Software (JOSS)
+
 ]
 
 .right-column50[
