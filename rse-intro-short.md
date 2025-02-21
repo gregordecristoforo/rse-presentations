@@ -140,6 +140,18 @@ class: gray-background
 
 ---
 
+## Survey results
+
+<img src="2024-survey/time-saved.png"
+     alt="Plot estimating time saving"
+     style="width: 600px;"/>
+
+<img src="2024-survey/recommending.png"
+     alt="How likely are you to recommend?"
+     style="width: 600px;"/>
+
+---
+
 # RSE is an established field
 
 .left-column50[
