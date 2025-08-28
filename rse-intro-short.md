@@ -118,6 +118,27 @@ class: gray-background
 
 ---
 
+# Service levels
+
+<img src="img/service-levels-no-title.png"
+     style="width: 100%;"/>
+
+---
+
+<img src="img/Help_desk_HPC_RSE.png"
+     style="width: 100%;"/>
+
+---
+class: center, middle, inverse
+
+# Office hours: Wednesday 14:00 - 16:00
+
+## https://research-software.uit.no/contact/
+
+## Email: rse@uit.no 
+
+---
+
 # Our vision
 
 ## Short term
@@ -170,13 +191,4 @@ class: gray-background
 <img src="img/rse-website.png"
      alt="FAIR principles: findable, accessible, interoperable, reusable"
      style="width: 100%;"/>
-
----
-class: center, middle, inverse
-
-# Office hours: Wednesday 14:00 - 16:00
-
-## https://research-software.uit.no/contact/
-
-## Email: rse@uit.no 
 
