@@ -120,11 +120,11 @@ class: gray-background
 
 # Service levels
 
-- **Help Desk:** 2 hours on (almost) every Wednesday at the UiT Library (UB 244) - .emph[FREE] (first come/first serve)
+- **Help Desk:** <br> 2 hours on (almost) every Wednesday at the UiT Library (UB 244) <br>  .emph[FREE] (first come/first serve)
 
-- **Individual Consultations:** One-on-one with an RSE engineer.  Initial consultation free, afterwards 600 kr/hr (5-hour minimum).
+- **Individual Consultations:** <br> One-on-one with an RSE engineer <br> Initial consultation free, afterwards 600 kr/hr (5-hour minimum)
 
-- **Extended Collaborations:**  Part-time or full-time contracts with the RSE group (include us in your grant applications!) - 600kr/hr 
+- **Extended Collaborations:**  <br> Part-time or full-time contracts with the RSE group <br> Include us in your grant applications! - 600kr/hr 
 
 ---
 
