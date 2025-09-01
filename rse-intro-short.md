@@ -11,11 +11,11 @@ class: gray-background
 ---
 # Software development is part of research
 
-- Scientists typically spend 30% of their time developing software
+- Scientists typically spend **30%** of their time developing software
 
 - 90% or more are primarily self-taught
 
-- Many are unaware of tools and practices that would allow them to write more reliable and maintainable code with less effort
+- Many are unaware of tools and practices that would allow them to write **more reliable and maintainable code** with less effort
 
 .cite[Wilson, Greg, et al. "Best practices for scientific computing." PLoS biology 12.1 (2014): e1001745.]
 
@@ -23,7 +23,7 @@ class: gray-background
 
 # Research software engineers
 
-.. are people who combine .emph[professional software expertise] with an .emph[understanding of research] .cite[https://researchsoftware.org/]
+- ... are people who combine .emph[professional software expertise] with an .emph[understanding of research] .cite[https://researchsoftware.org/]
 
 - Often people **who grew up in research** and liked computing and programming
 
@@ -33,17 +33,17 @@ class: gray-background
 ## Resources
 
 - [Society of Research Software Engineering](https://society-rse.org/)
-- Recent conference: [RSECon 2023](https://rsecon23.society-rse.org/)
+- Recent conference: [RSECon 2025](https://rsecon25.society-rse.org/)
 - https://nordic-rse.org/
-- [Nordic-RSE unconference 2023](https://nordic-rse.org/events/2023-online-unconference/)
+- [Nordic-RSE conference 2025](https://nordic-rse.org/blog/nrse-conference-report/)
 
 ---
 
 # Help with improving your scripts/code
 
-- .emph[Code review] (we discuss code in a constructive way)
-- Making code .emph[more reusable]
-- Good practices for documentation
+- .emph[Collaborative code review] (we discuss code in a constructive way)
+- Making code .emph[cleaner, faster, and more reusable]
+- Best practices for documentation
 
 <img src="img/review.jpg"
      alt="Image showing a 'diff' (before and after) used during code review"
@@ -103,7 +103,7 @@ class: gray-background
 
 - Porting to GPU
 
-- Moving from local computer to cloud or HPC
+- Moving from local computer to cloud or high-performance computing clusters
 
 - Helping with running independent steps in parallel
 ]
@@ -118,63 +118,23 @@ class: gray-background
 
 ---
 
-# Our vision
+# Service levels
 
-## Short term
+- **Help Desk:** <br> 2 hours on (almost) every Wednesday at the UiT Library (UB 244) <br>  .emph[FREE] (first come/first serve)
 
-- Provide consulting: good advice is **not** expensive
-- .emph[Code review] sessions
-- Work on "smaller" projects and .emph[document use cases]
-- Focus on UiT
-- Attract more projects 
+- **Individual Consultations:** <br> One-on-one with an RSE engineer <br> Initial consultation free, afterwards 600 kr/hr (5-hour minimum)
 
-
-## Longer term
-
-- Be part of funding applications (successful applications with Hylleraas Centre and Framsenteret)
-- Research groups have access to best in class RSE services
-- Hire more staff who collaborate on projects
-- "Proper" application procedure 
-- Going beyond UiT
-- .emph[Career path opportunities]
+- **Extended Collaborations:**  <br> Part-time or full-time contracts with the RSE group <br> Include us in your grant applications! - 600kr/hr 
 
 ---
 
-## Survey results
-
-<img src="2024-survey/time-saved.png"
-     alt="Plot estimating time saving"
-     style="width: 600px;"/>
-
-<img src="2024-survey/recommending.png"
-     alt="How likely are you to recommend?"
-     style="width: 600px;"/>
-
----
-
-# RSE is an established field
-
-.left-column50[
-<img src="img/rse-york.png"
-     alt="FAIR principles: findable, accessible, interoperable, reusable"
-     style="height: 350px;"/>
-]
-
-.right-column50[
-<img src="img/rse-princeton.png"
-     alt="FAIR principles: findable, accessible, interoperable, reusable"
-     style="height: 350px;"/>
-]
----
-
-<img src="img/rse-website.png"
-     alt="FAIR principles: findable, accessible, interoperable, reusable"
+<img src="img/Help_desk_HPC_RSE.png"
      style="width: 100%;"/>
 
 ---
 class: center, middle, inverse
 
-# Office hours: Wednesday 14:00 - 16:00
+# RSE Help Desk: Wednesday 14:00 - 16:00
 
 ## https://research-software.uit.no/contact/
 
