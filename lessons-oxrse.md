@@ -24,6 +24,21 @@ Interesting Software Projects
 Suggested next steps for RSE at UiT 
 
 ---
+<img src="img/oxrse-building.jpg"
+     alt="RSE logo"
+     style="height: 500px;"/>
+
+- located in the Doctoral Training Centre (DTC) in Keble Rd
+---
+<img src="img/oxrse-door.jpg"
+     alt="RSE logo"
+     style="height: 400px;"/>
+
+---
+<img src="img/oxrse-office.jpg"
+     alt="RSE logo"
+     style="height: 400px;"/>
+---
 
 # Organization of OxRSE
 
