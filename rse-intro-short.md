@@ -37,6 +37,12 @@ class: gray-background
 - https://nordic-rse.org/
 - [Nordic-RSE conference 2025](https://nordic-rse.org/blog/nrse-conference-report/)
 
+
+---
+
+<img src="img/rse-society.png"
+     style="width: 90%;"/>
+
 ---
 
 <img src="img/rse-website.png"
@@ -123,6 +129,11 @@ class: gray-background
 
 ---
 
+
+<img src="img/nris-screenshot.png"
+     style="width: 100%;"/>
+
+---
 # Work with us
 
 - **RSE Help Desk:** <br> 2 hours on (almost) every Wednesday at the UiT Library (UB 338) <br>  .emph[FREE] (first come/first serve)
@@ -137,8 +148,30 @@ class: gray-background
      style="width: 100%;"/>
 
 ---
+# Example 1: rewrite instead of buying a 30 GB hard disk
 
-# Example 1
+### Problematic if data is 30 GB big
+
+```python
+result = 0.0
+with open("data.txt", "r") as f:
+    lines = f.readlines()
+    for line in lines:
+        result += analyze(line)
+```
+
+
+### Better
+
+```python
+result = 0.0
+with open("data.txt", "r") as f:
+    for line in f:
+        result += analyze(line)
+```
+---
+
+# Example 2
 
 Speed-up of grid mesh generation for oceanography code from days to seconds by a code
 rewrite from Matlab to Python+Rust using a more optimal algorithm
@@ -147,7 +180,7 @@ rewrite from Matlab to Python+Rust using a more optimal algorithm
 
 ---
 
-# Example 2
+# Example 3
 
 .left-column50[
 - Bioaccumulation model for organic contaminants developed for arctic ecosystems
@@ -159,12 +192,38 @@ rewrite from Matlab to Python+Rust using a more optimal algorithm
 <img src="img/foodweb.png" style="width: 100%;"/>
 ]
 
+
 ---
 
-<img src="img/coderefinery-website.png"
-     style="width: 100%;"/>
+.left-column50[
+- Version control
 
+- Collaboration using Git
 
+- Testing
+
+- Documentation
+
+- Notebooks
+
+- Modular code development
+
+- Reproducible research
+
+- Software licensing
+
+- How to share and publish code
+]
+
+.right-column50[
+<img src="img/coderefinery.png" style="width: 250px;"/>
+
+**Typical format**: 6 half-days, [twice per
+year](https://coderefinery.org/workshops/upcoming/), online, free,
+live-streamed, recorded, archived asynchronous Q&A in collaborative document
+
+**Lessons and recordings:** https://coderefinery.org/lessons/
+]
 ---
 
 ## PhD course at UiT: FYS-8805 Collaborative Coding
