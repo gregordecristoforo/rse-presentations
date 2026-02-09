@@ -39,6 +39,11 @@ class: gray-background
 
 ---
 
+<img src="img/rse-website.png"
+     style="width: 100%;"/>
+
+---
+
 # Help with improving your scripts/code
 
 - .emph[Collaborative code review] (we discuss code in a constructive way)
@@ -118,9 +123,9 @@ class: gray-background
 
 ---
 
-# Service levels
+# Work with us
 
-- **Help Desk:** <br> 2 hours on (almost) every Wednesday at the UiT Library (UB 244) <br>  .emph[FREE] (first come/first serve)
+- **RSE Help Desk:** <br> 2 hours on (almost) every Wednesday at the UiT Library (UB 338) <br>  .emph[FREE] (first come/first serve)
 
 - **Individual Consultations:** <br> One-on-one with an RSE engineer <br> Initial consultation free, afterwards 600 kr/hr (5-hour minimum)
 
@@ -131,6 +136,58 @@ class: gray-background
 <img src="img/Help_desk_HPC_RSE.png"
      style="width: 100%;"/>
 
+---
+
+# Example 1
+
+Speed-up of grid mesh generation for oceanography code from days to seconds by a code
+rewrite from Matlab to Python+Rust using a more optimal algorithm
+
+<img src="img/mesh.jpg" style="width: 100%;"/>
+
+---
+
+# Example 2
+
+.left-column50[
+- Bioaccumulation model for organic contaminants developed for arctic ecosystems
+
+- Translated 10k lines of 20+ year old Visual Basic code to Python 
+]
+
+.right-column50[
+<img src="img/foodweb.png" style="width: 100%;"/>
+]
+
+---
+
+<img src="img/coderefinery-website.png"
+     style="width: 100%;"/>
+
+
+---
+
+## PhD course at UiT: FYS-8805 Collaborative Coding
+
+- One week of lectures + home exam
+
+- 5 credit points 
+
+- Lecture material is public: [fys-8805-collaborative-coding.github.io/lecture-material](fys-8805-collaborative-coding.github.io/lecture-material)
+
+- Next course: probably later this semester
+
+- **Let us know if you are interested!**
+
+
+
+---
+## UiT organizes the next Nordic RSE conference
+
+<img src="img/nrse-2026.png"
+     style="width: 100%;"/>
+
+more info at [nordic-rse.org/nrse2026](https://nordic-rse.org/nrse2026/)
 ---
 class: center, middle, inverse
 
