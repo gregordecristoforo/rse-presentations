@@ -1,12 +1,27 @@
 class: gray-background
 
-# Research software engineering at UiT
 
-# [research-software.uit.no](https://research-software.uit.no/)
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+.right-column50[
 
 <img src="img/logo.png"
      alt="RSE logo"
      style="height: 250px;"/>
+]
+
+.left-column50[
+# Research software engineering at UiT
+
+]
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+# [research&#8209;software.uit.no](https://research-software.uit.no/)
 
 ---
 # Software development is part of research
@@ -250,7 +265,8 @@ more info at [nordic-rse.org/nrse2026](https://nordic-rse.org/nrse2026/)
 ---
 class: center, middle, inverse
 
-# RSE Help Desk: Wednesday 14:00 - 16:00
+# RSE Help Desk: 
+# Wednesday 14:00&#8209;16:00
 
 ## https://research-software.uit.no/contact/
 
