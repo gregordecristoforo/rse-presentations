@@ -1,8 +1,10 @@
 class: gray-background
 
 
+<img src="img/rse-group.jpg"
+     style="width: 100%;"/>
 
-&nbsp;  
+<!-- &nbsp;   -->
 &nbsp;  
 &nbsp;  
 .right-column50[
@@ -13,15 +15,15 @@ class: gray-background
 ]
 
 .left-column50[
-# Research software engineering at UiT
+# Research Software Engineering at UiT
 
 ]
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-# [research&#8209;software.uit.no](https://research-software.uit.no/)
+<!-- &nbsp;   -->
+<!-- &nbsp;   -->
+<!-- &nbsp;   -->
+<!-- &nbsp;   -->
+<!-- &nbsp;   -->
+<!-- # [research&#8209;software.uit.no](https://research-software.uit.no/) -->
 
 ---
 # Software development is part of research
@@ -52,17 +54,17 @@ class: gray-background
 - https://nordic-rse.org/
 - [Nordic-RSE conference 2025](https://nordic-rse.org/blog/nrse-conference-report/)
 
-
----
-
-<img src="img/rse-society.png"
-     style="width: 90%;"/>
-
----
-
-<img src="img/rse-website.png"
-     style="width: 100%;"/>
-
+<!---->
+<!-- --- -->
+<!---->
+<!-- <img src="img/rse-society.png" -->
+<!--      style="width: 90%;"/> -->
+<!---->
+<!-- --- -->
+<!---->
+<!-- <img src="img/rse-website.png" -->
+<!--      style="width: 100%;"/> -->
+<!---->
 ---
 
 # Help with improving your scripts/code
@@ -145,10 +147,10 @@ class: gray-background
 ---
 
 
-<img src="img/nris-screenshot.png"
-     style="width: 100%;"/>
-
----
+<!-- <img src="img/nris-screenshot.png" -->
+<!--      style="width: 100%;"/> -->
+<!---->
+<!-- --- -->
 # Work with us
 
 - **RSE Help Desk:** <br> 2 hours on (almost) every Wednesday at the UiT Library (UB 338) <br>  .emph[FREE] (first come/first serve)
@@ -162,82 +164,82 @@ class: gray-background
 <img src="img/Help_desk_HPC_RSE.png"
      style="width: 100%;"/>
 
----
-# Example 1: rewrite instead of buying a 30 GB hard disk
+<!-- --- -->
+<!-- # Example 1: rewrite instead of buying a 30 GB hard disk -->
+<!---->
+<!-- ### Problematic if data is 30 GB big -->
+<!---->
+<!-- ```python -->
+<!-- result = 0.0 -->
+<!-- with open("data.txt", "r") as f: -->
+<!--     lines = f.readlines() -->
+<!--     for line in lines: -->
+<!--         result += analyze(line) -->
+<!-- ``` -->
+<!---->
+<!---->
+<!-- ### Better -->
+<!---->
+<!-- ```python -->
+<!-- result = 0.0 -->
+<!-- with open("data.txt", "r") as f: -->
+<!--     for line in f: -->
+<!--         result += analyze(line) -->
+<!-- ``` -->
+<!-- --- -->
+<!---->
+<!-- # Example 2 -->
+<!---->
+<!-- Speed-up of grid mesh generation for oceanography code from days to seconds by a code -->
+<!-- rewrite from Matlab to Python+Rust using a more optimal algorithm -->
+<!---->
+<!-- <img src="img/mesh.jpg" style="width: 100%;"/> -->
 
-### Problematic if data is 30 GB big
+<!-- --- -->
 
-```python
-result = 0.0
-with open("data.txt", "r") as f:
-    lines = f.readlines()
-    for line in lines:
-        result += analyze(line)
-```
-
-
-### Better
-
-```python
-result = 0.0
-with open("data.txt", "r") as f:
-    for line in f:
-        result += analyze(line)
-```
----
-
-# Example 2
-
-Speed-up of grid mesh generation for oceanography code from days to seconds by a code
-rewrite from Matlab to Python+Rust using a more optimal algorithm
-
-<img src="img/mesh.jpg" style="width: 100%;"/>
-
----
-
-# Example 3
-
-.left-column50[
-- Bioaccumulation model for organic contaminants developed for arctic ecosystems
-
-- Translated 10k lines of 20+ year old Visual Basic code to Python 
+<!-- # Example 3 -->
+<!---->
+<!-- .left-column50[ -->
+<!-- - Bioaccumulation model for organic contaminants developed for arctic ecosystems -->
+<!---->
+<!-- - Translated 10k lines of 20+ year old Visual Basic code to Python  -->
+]
+<!---->
+<!-- .right-column50[ -->
+<!-- <img src="img/foodweb.png" style="width: 100%;"/> -->
 ]
 
-.right-column50[
-<img src="img/foodweb.png" style="width: 100%;"/>
+
+<!-- --- -->
+<!---->
+<!-- .left-column50[ -->
+<!-- - Version control -->
+<!---->
+<!-- - Collaboration using Git -->
+<!---->
+<!-- - Testing -->
+<!---->
+<!-- - Documentation -->
+<!---->
+<!-- - Notebooks -->
+<!---->
+<!-- - Modular code development -->
+<!---->
+<!-- - Reproducible research -->
+<!---->
+<!-- - Software licensing -->
+<!---->
+<!-- - How to share and publish code -->
 ]
-
-
----
-
-.left-column50[
-- Version control
-
-- Collaboration using Git
-
-- Testing
-
-- Documentation
-
-- Notebooks
-
-- Modular code development
-
-- Reproducible research
-
-- Software licensing
-
-- How to share and publish code
-]
-
-.right-column50[
-<img src="img/coderefinery.png" style="width: 250px;"/>
-
-**Typical format**: 6 half-days, [twice per
-year](https://coderefinery.org/workshops/upcoming/), online, free,
-live-streamed, recorded, archived asynchronous Q&A in collaborative document
-
-**Lessons and recordings:** https://coderefinery.org/lessons/
+<!---->
+<!-- .right-column50[ -->
+<!-- <img src="img/coderefinery.png" style="width: 250px;"/> -->
+<!---->
+<!-- **Typical format**: 6 half-days, [twice per -->
+<!-- year](https://coderefinery.org/workshops/upcoming/), online, free, -->
+<!-- live-streamed, recorded, archived asynchronous Q&A in collaborative document -->
+<!---->
+<!-- **Lessons and recordings:** https://coderefinery.org/lessons/ -->
 ]
 ---
 
@@ -249,7 +251,7 @@ live-streamed, recorded, archived asynchronous Q&A in collaborative document
 
 - Lecture material is public: [fys-8805-collaborative-coding.github.io/lecture-material](fys-8805-collaborative-coding.github.io/lecture-material)
 
-- Next course: probably later this semester
+- Next course: 25th–27th May & 11th–12th June
 
 - **Let us know if you are interested!**
 
