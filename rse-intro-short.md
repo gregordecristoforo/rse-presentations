@@ -1,5 +1,12 @@
-class: gray-background
+<!-- cicero
+engine: remark
+js:
+  - https://cdnjs.cloudflare.com/ajax/libs/remark/0.14.0/remark.min.js
+css:
+  - slides.css
+-->
 
+class: gray-background
 
 <img src="img/rse-group.jpg"
      style="width: 100%;"/>

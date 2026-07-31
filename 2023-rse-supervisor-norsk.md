@@ -1,3 +1,11 @@
+<!-- cicero
+engine: remark
+js:
+  - https://cdnjs.cloudflare.com/ajax/libs/remark/0.14.0/remark.min.js
+css:
+  - slides.css
+-->
+
 class: gray-background
 
 # Research software engineering (RSE) på 10-15 minuter
