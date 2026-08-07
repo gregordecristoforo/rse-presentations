@@ -2,11 +2,11 @@
 
 ## [RSE group](https://research-software.uit.no/) presentations
 
-Slides can be served using [Cicero](http://cicero.xyz), which can
-be [run locally](https://cicero.readthedocs.io/en/latest/local.html).
+Slides can be served using [Cicero](https://tangled.org/radovan.xyz/cicero), which can
+be [run locally](https://tangled.org/radovan.xyz/cicero#local-preview).
 
-- https://cicero.xyz/v3/remark/0.14.0/github.com/uit-no/rse-presentations/main/rse-intro.md/
-- https://cicero.xyz/v3/remark/0.14.0/github.com/uit-no/rse-presentations/main/rse-intro-short.md/
-- https://cicero.xyz/v3/remark/0.14.0/github.com/uit-no/rse-presentations/main/rse-lessons-learned.md/
-- https://cicero.xyz/v3/remark/0.14.0/github.com/uit-no/rse-presentations/main/oxrse-presentation.md/
-- https://cicero.xyz/v3/remark/0.14.0/github.com/uit-no/rse-presentations/main/rse-pitch.md/
+- https://cicero.pages.dev/github/uit-no/rse-presentations/main/rse-intro.md/
+- https://cicero.pages.dev/github/uit-no/rse-presentations/main/rse-intro-short.md/
+- https://cicero.pages.dev/github/uit-no/rse-presentations/main/rse-lessons-learned.md/
+- https://cicero.pages.dev/github/uit-no/rse-presentations/main/oxrse-presentation.md/
+- https://cicero.pages.dev/github/uit-no/rse-presentations/main/rse-pitch.md/
