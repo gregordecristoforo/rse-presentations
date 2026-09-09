@@ -1,3 +1,11 @@
+<!-- cicero
+engine: remark
+js:
+  - https://cdnjs.cloudflare.com/ajax/libs/remark/0.14.0/remark.min.js
+css:
+  - slides.css
+-->
+
 class: gray-background, middle, center
 
 # Lessons learned from running a local RSE group: [research-software.uit.no](https://research-software.uit.no/)
